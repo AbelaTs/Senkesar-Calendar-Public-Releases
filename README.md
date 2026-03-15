@@ -1,0 +1,49 @@
+# Senkesar Calendar
+
+**Senkesar Calendar** is an Android app for the Ethiopian Orthodox Tewahedo Church calendar. View the Ethiopian calendar, see daily commemorations (saints and feasts), convert dates between Ethiopian and Gregorian calendars, and get a home-screen widget with today’s date and main commemoration.
+
+---
+
+## Features
+
+- **Ethiopian calendar** — Navigate months and years in the Ethiopian calendar with ease. Each day shows both Ethiopian and Gregorian dates.
+- **Today’s commemorations** — See today’s Ethiopian Orthodox commemorations at a glance: saints, feasts, and fasting days, with short descriptions in Amharic and English.
+- **Date converter** — Convert from Ethiopian to Gregorian (and back) in one tap. Pick month, day, and year and get the equivalent date instantly.
+- **Search** — Quickly find feasts, saints, and special days by name or date (Amharic or English).
+- **Home screen widget** — Widget shows today’s Ethiopian date and main commemoration.
+- **Language** — Switch between Amharic and English.
+- **Dark mode** — Light, dark, or system theme.
+- **Notes** — Add personal notes to calendar days with optional reminders.
+
+---
+
+## Screenshots
+
+| Calendar & commemorations | Today’s commemoration detail |
+|--------------------------|------------------------------|
+| ![Calendar overview](screenshots/calendar-overview.png) | ![Commemorations detail](screenshots/commemorations-detail.png) |
+
+| Home screen widget | Date converter | Search |
+|--------------------|-----------------|--------|
+| ![Widget](screenshots/widget.png) | ![Date converter](screenshots/date-converter.png) | ![Search](screenshots/search.png) |
+
+---
+
+## Download (Android)
+
+- **Releases:** [Releases](https://github.com/AbelaTs/Senkesar-Calendar-Public-Releases/releases) — Download the latest `Senkesar-Calendar-*.apk` for Android.
+- APK builds are produced automatically from the main app repository and published here when you set up the release workflow and tokens.
+
+---
+
+## Privacy
+
+The app does not require an account. Notes and preferences are stored only on your device. For details, see the app’s [Privacy Policy](https://github.com/AbelaTs/senkesar_calendar/blob/main/PRIVACY_POLICY.md) in the main repository.
+
+---
+
+## Source
+
+The app source code lives in the main repository:  
+**[senkesar_calendar](https://github.com/AbelaTs/senkesar_calendar)**  
+This repository is used only for public APK releases and documentation.
