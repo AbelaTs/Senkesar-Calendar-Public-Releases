@@ -38,7 +38,7 @@
 
 ## Privacy
 
-The app does not require an account. Notes and preferences are stored only on your device. For details, see the app’s [Privacy Policy](https://github.com/AbelaTs/senkesar_calendar/blob/main/PRIVACY_POLICY.md) in the main repository.
+The app does not require an account. Notes and preferences are stored only on your device. For the full policy, see **[Privacy Policy](https://www.abeltsegaye.com/senkesar-calendar-privacy-policy)**.
 
 ---
 
