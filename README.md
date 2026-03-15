@@ -32,7 +32,6 @@
 ## Download (Android)
 
 - **Releases:** [Releases](https://github.com/AbelaTs/Senkesar-Calendar-Public-Releases/releases) — Download the latest `Senkesar-Calendar-*.apk` for Android.
-- APK builds are produced automatically from the main app repository and published here when you set up the release workflow and tokens.
 
 ---
 
@@ -40,10 +39,3 @@
 
 The app does not require an account. Notes and preferences are stored only on your device. For the full policy, see **[Privacy Policy](https://www.abeltsegaye.com/senkesar-calendar-privacy-policy)**.
 
----
-
-## Source
-
-The app source code lives in the main repository:  
-**[senkesar_calendar](https://github.com/AbelaTs/senkesar_calendar)**  
-This repository is used only for public APK releases and documentation.
